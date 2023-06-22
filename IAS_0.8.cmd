@@ -3,6 +3,7 @@
 
 :: Add custom name in IDM license info, prefer to write it in English and/or numeric in below line after = sign,
 set name=
+Licensed to Himel.
 
 
 
